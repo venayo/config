@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to accounst related local APIs"
+  contactDetails:
+    name: "Miguel Alejo"
+    email: "malejo@ipn.mx"
+  onCallSupport:
+    - (555) 555-12321
+    - (555) 123-98425

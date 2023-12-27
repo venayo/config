@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to accounst related local QA APIs"
+  contactDetails:
+    name: "Miguel Alejo QA"
+    email: "qa@ipn.mx"
+  onCallSupport:
+    - (555) 555-11111
+    - (555) 123-11111
+

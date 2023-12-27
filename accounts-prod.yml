@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to accounst related local prod APIs"
+  contactDetails:
+    name: "Miguel Alejo production"
+    email: "prod@ipn.mx"
+  onCallSupport:
+    - (555) 555-99999
+    - (555) 123-99999
+

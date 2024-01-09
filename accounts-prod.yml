@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to accounst related local production APIs"
+  message: "Welcome to accounst related local prod APIs"
   contactDetails:
     name: "Miguel Alejo production"
     email: "{cipher}4547176d196213deba8efacee4a5f7fc3c032b1256f981a14aa7c0c0ced418ed"
